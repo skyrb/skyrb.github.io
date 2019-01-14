@@ -1,16 +1,33 @@
 ---
 layout: page
-title: About me
+title: About Sudhir
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<div id="aboutme-section">
 
-What else do you need?
+<p class="about-text">
+<span class="fa fa-briefcase about-icon"></span>
+  My name is <strong>Sudhir kumar</strong>.I am a dedicated learner and enthusiastic about learning new things. I am passionate about Machine Learning.
+</p>
 
-### my history
+<p class="about-text">
+<span class="fa fa-graduation-cap about-icon"></span>
+Currently I am pursuing my Bachelors in Engineering in <strong>Computer Science </strong>from Panjab University Chandigarh, India.
+</p>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p class="about-text">
+<span class="fa fa-code about-icon"></span>
+I am a budding programmer and data scientist. 
+</p>
+
+<p class="about-text">
+<span class="fa fa-heart about-icon"></span>
+I like to watch youtube and movie in my free time. 
+</p>
+
+<p class="about-text">
+<span class="fa fa-envelope about-icon"></span>
+Connect with me,If you are interested in any of my projects or want to collaborate on any other project drop a mail <a target="_blank" href="mailto:sudhirkumarbgs10@gmail.com">here</a>.
+</p>
